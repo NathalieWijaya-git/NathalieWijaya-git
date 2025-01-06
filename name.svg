@@ -1,5 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="100">
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="pink" font-size="24">
-    My name is Nathalie Wijaya
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="100">
+  <style>
+    .black {
+      font-family: 'Arial', sans-serif; 
+      font-weight: bold; 
+      fill: black;
+      font-size: 30px;
+      animation: jump 1s infinite;
+    }
+
+    .pink {
+      font-family: 'Arial', sans-serif; 
+      font-weight: bold; 
+      fill: hotpink;
+      font-size: 30px;
+      animation: jump 1s infinite;
+    }
+
+    @keyframes jump {
+      0% { transform: translateY(0); }
+      50% { transform: translateY(-10px); }
+      100% { transform: translateY(0); }
+    }
+  </style>
+
+  <text x="34%" y="50%" dominant-baseline="middle" text-anchor="middle" class="black">
+    My name is
+  </text>
+  <text x="68%" y="50%" dominant-baseline="middle" text-anchor="middle" class="pink">
+    Nathalie Wijaya
   </text>
 </svg>
