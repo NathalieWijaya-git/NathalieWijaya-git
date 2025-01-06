@@ -1,4 +1,7 @@
-<h1 align="center">Hello there! 👋 My name is Nathalie Wijaya</h1>
+<h1 align="center">Hello there! 👋</h1>
+<h2 align="center">
+  <span style="color: pink; animation: fadeIn 2s ease-in-out;">My name is Nathalie Wijaya</span>
+</h2>
 <h3 align="center">I am currently a junior double majoring in Mathematics and Computer Science at Rutgers University.</h3>
 
 - 👀 I am interested in **Software Engineering, Quantum Computing, and Operations Research**
