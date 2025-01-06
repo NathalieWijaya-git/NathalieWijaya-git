@@ -1,6 +1,6 @@
 <h1 align="center">Hello there! 👋</h1>
 <h2 align="center">
-  <span style="color: pink; animation: fadeIn 2s ease-in-out;">My name is Nathalie Wijaya</span>
+  <img src="https://github.com/NathalieWijaya-git/NathalieWijaya-git/blob/main/name.svg" alt="My name is Nathalie Wijaya">
 </h2>
 <h3 align="center">I am currently a junior double majoring in Mathematics and Computer Science at Rutgers University.</h3>
 
