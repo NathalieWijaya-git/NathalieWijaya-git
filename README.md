@@ -26,7 +26,5 @@
 </p>
 
 <div style="position: relative; display: inline-block;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nathaliewijaya-git&" alt="nathaliewijaya-git" />
-
   <img src="https://media.tenor.com/W20AikH-VmgAAAAM/daddy-daddys-girl.gif" alt="Your GIF" style="position: absolute; top: 0; right: 20px; height: 195px; width: auto; z-index: 1;">
 </div>
