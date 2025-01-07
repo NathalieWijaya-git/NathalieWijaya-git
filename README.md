@@ -25,8 +25,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nathaliewijaya-git&show_icons=true&locale=en&text_color=FF69B4&title_color=FF69B4&icon_color=FF69B4" alt="nathaliewijaya-git" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nathaliewijaya-git&" alt="nathaliewijaya-git" /></p>
-
-<div style="position: relative;">
-  <img src="[https://yourgifurl.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fpowerpuff-girls-blossom-gifs&psig=AOvVaw0v6zxp1SUFkbCLKwKjvGak&ust=1736297241365000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCZv7ax4ooDFQAAAAAdAAAAABAs)" alt="Your GIF" style="position: absolute; bottom: 0; right: 0; width: 100px; height: 100px;">
+<div style="display: flex; align-items: center; justify-content: center;">
+  <div style="margin-right: 20px;">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nathaliewijaya-git&" alt="nathaliewijaya-git" />
+  </div>
+  <div>
+    <img src="https://media.tenor.com/W20AikH-VmgAAAAM/daddy-daddys-girl.gif" alt="Your GIF" style="width: 150px; height: auto;">
+  </div>
 </div>
