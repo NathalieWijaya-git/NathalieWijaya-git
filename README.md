@@ -4,10 +4,6 @@
 </h2>
 <h3 align="center">I am currently a junior double majoring in Mathematics and Computer Science at Rutgers University.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nathaliewijaya-git&label=Profile%20views&color=0e75b6&style=flat" alt="nathaliewijaya-git" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nathaliewijaya-git" alt="nathaliewijaya-git" /></a> </p>
-
 - 👀 I am currently interested in **Software Engineering, Quantum Computing, and Operations Research**
 
 - 💪 Over the past few years, I have developed a strong foundation in areas such as **database management, computer programming, and optimization techniques**
