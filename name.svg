@@ -11,7 +11,7 @@
     .pink {
       font-family: 'Arial', sans-serif; 
       font-weight: bold; 
-      fill: hotpink;
+      fill: #da5f68;
       font-size: 30px;
       animation: jump 1s infinite;
     }
